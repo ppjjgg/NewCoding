@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\박준규\\source\\repos\\Test code5\\Test code5\\Test code5.csproj": {}
+    "C:\\Users\\박준규\\Documents\\NewCoding\\Test code5\\Test code5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\박준규\\source\\repos\\Test code5\\Test code5\\Test code5.csproj": {
+    "C:\\Users\\박준규\\Documents\\NewCoding\\Test code5\\Test code5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\박준규\\source\\repos\\Test code5\\Test code5\\Test code5.csproj",
+        "projectUniqueName": "C:\\Users\\박준규\\Documents\\NewCoding\\Test code5\\Test code5.csproj",
         "projectName": "Test code5",
-        "projectPath": "C:\\Users\\박준규\\source\\repos\\Test code5\\Test code5\\Test code5.csproj",
+        "projectPath": "C:\\Users\\박준규\\Documents\\NewCoding\\Test code5\\Test code5.csproj",
         "packagesPath": "C:\\Users\\박준규\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\박준규\\source\\repos\\Test code5\\Test code5\\obj\\",
+        "outputPath": "C:\\Users\\박준규\\Documents\\NewCoding\\Test code5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\박준규\\AppData\\Roaming\\NuGet\\NuGet.Config",
